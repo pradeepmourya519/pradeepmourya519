@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pradeep Maurya
 - 👀 I’m interested in Web Development, Mobile App Development and Desktop app development.
 - 🌱 I’m currently learning Electron JS and Next JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new Technologies, ideas and trends.
 - 📫 How to reach me pradeepmourya519@gmail.com
 
 <!---
